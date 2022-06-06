@@ -2,7 +2,7 @@
   font-family: Helvetica, Arial, sans-serif;
 }
 body{
-  padding: 60px;
+  padding: 6px;
 }
 input{
   color:gray;
@@ -28,4 +28,10 @@ input{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+}
+.aling-text-right{
+  text-align: right;
+}
+.navbar-mb{
+  margin-bottom: 15px;
 }
